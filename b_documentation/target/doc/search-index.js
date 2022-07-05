@@ -1,0 +1,4 @@
+var searchIndex = JSON.parse('{\
+"b_documentation":{"doc":"A pumpkin is a cultivar of winter squash that is round …","t":[17,3,11,11,11,11,12,12,11,11,11,11],"n":["BURNT_ORANGE","Pumpkin","borrow","borrow_mut","from","into","orangeness","roundness","smash","try_from","try_into","type_id"],"q":["b_documentation","","","","","","","","","","",""],"d":["‘BURT_ORANGE’ is for the ‘orangeness’ field in the …","Big orange thing","","","Returns the argument unchanged.","Calls <code>U::from(self)</code>.","´orangeness´ is a number from 8 to 27","´roundness´ is a percentage","If you smash the pumpkin, it will be gone. Then it can’t …","","",""],"i":[0,0,1,1,1,1,1,1,1,1,1,1],"f":[null,null,[[["",0]],["",0]],[[["",0]],["",0]],[[]],[[]],null,null,[[]],[[],["result",4]],[[],["result",4]],[[["",0]],["typeid",3]]],"p":[[3,"Pumpkin"]]}\
+}');
+if (window.initSearch) {window.initSearch(searchIndex)};
